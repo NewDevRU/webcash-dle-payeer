@@ -1,0 +1,12 @@
+DirectoryIndex index.php
+RewriteEngine on
+
+Order Deny,Allow
+Deny from all
+
+<Files ~ "(index\.php|\.css|\.jpg|\.png|\.xml)$">
+	Order Allow,Deny
+	Allow from all
+</Files>
+
+AddDefaultCharset utf-8
