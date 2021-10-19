@@ -1,4 +1,4 @@
-Платежный шлюз для модуля WebCash для CMS DataLife Engine
+Платежный шлюз Payeer для платежного модуля WebCash для DLE (DataLife Engine) - который необходимо скачать по ссылке https://new-dev.ru/27-webcash-sistema-oplaty.html и установить первым.
 
 Установка: поместить папку "wc_payeer_install" в корневую папку сайта и запустить установщик "index.php", то есть адрес для запуска установщика будет: http://example.com/wc_payeer_install/index.php , затем будут показаны дальнейшие инструкции. После успешной установки папку "wc_payeer_install" можно удалить.
 
